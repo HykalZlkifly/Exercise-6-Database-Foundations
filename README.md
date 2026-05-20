@@ -1,4 +1,4 @@
-# Database Foundations: Containerized MongoDB Orchestration and Secure Middleware Abstraction via Node-RED
+# Exercise 6- Database Foundations: Containerized MongoDB Orchestration and Secure Middleware Abstraction via Node-RED
 
 ## 📝 Introduction
 In modern industrial IoT ecosystems and enterprise web applications, migrating from volatile, real-time debugging to persistent data storage is a critical operational milestone. While emitting raw telemetry strings directly to a system log is sufficient for initial hardware confirmation, production-grade applications require durable, resilient, and performant transaction layers.
